@@ -1,4 +1,4 @@
-# 🎯 Agentic Task Manager - Copilot Training Project Summary
+# 🎯 Agentic - Copilot Training Project Summary
 
 ## 📋 Project Overview
 
