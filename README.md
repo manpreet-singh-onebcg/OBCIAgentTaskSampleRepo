@@ -13,8 +13,10 @@ Use GitHub Copilot to identify, analyze, and fix code quality issues in a .NET 8
 ## 📝 Training Instructions
 
 Refer details in 
+```
 DeveloperSubmissions/
-├── README.md 
+├── README.md
+```
 
 ### **Phase 1: Code Review & Issue Discovery**
 1. **Analyze the codebase** using GitHub Copilot Chat
@@ -100,7 +102,7 @@ AgenticTaskManager/
 ## 🚀 Getting Started
 
 ### **Prerequisites**
-- Visual Studio 2022 or VS Code with C# extension
+- VS Code with C# extension
 - .NET 8 SDK
 - GitHub Copilot subscription
 - SQL Server (LocalDB is fine)
