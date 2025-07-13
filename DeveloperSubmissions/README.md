@@ -8,7 +8,7 @@ This is a **code quality training project** where you'll work with a codebase co
 
 ## 📂 Folder Structure
 
-Each developer should create their own folder using the naming convention:
+Each developer should create a new development branch with your name i.e. dev/FirstNameLastName and create their own folder under DeveloperSubmissions folder using the naming convention:
 ```
 DeveloperSubmissions/
 ├── FirstName_LastName/
