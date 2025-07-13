@@ -1,4 +1,4 @@
-# 🎯 Agentic Task Manager - Copilot Training Project
+# 🎯 Agentic - Copilot Training Project
 
 ## 🚨 **Training Environment Notice**
 
