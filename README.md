@@ -12,6 +12,10 @@ Use GitHub Copilot to identify, analyze, and fix code quality issues in a .NET 8
 
 ## 📝 Training Instructions
 
+Refer details in 
+DeveloperSubmissions/
+├── README.md 
+
 ### **Phase 1: Code Review & Issue Discovery**
 1. **Analyze the codebase** using GitHub Copilot Chat
 2. **Identify security vulnerabilities** (hardcoded credentials, SQL injection, etc.)
