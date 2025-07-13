@@ -1,6 +1,6 @@
 # 📁 Developer Submissions
 
-This folder contains individual developer submissions for the **Agentic Task Manager Copilot Training Program** - a hands-on learning experience focused on **code quality improvement and AI-assisted code review**.
+This folder contains individual developer submissions for the **Agentic - Copilot Training Project** - a hands-on learning experience focused on **code quality improvement and AI-assisted code review**.
 
 ## 🚨 **Training Context**
 
