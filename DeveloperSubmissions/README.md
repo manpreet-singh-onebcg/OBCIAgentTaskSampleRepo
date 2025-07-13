@@ -11,7 +11,7 @@ This is a **code quality training project** where you'll work with a codebase co
 Each developer should create their own folder using the naming convention:
 ```
 DeveloperSubmissions/
-├── FirstName_LastName_Role/
+├── FirstName_LastName/
 │   ├── AgenticTaskManager.API/          # Fixed API layer
 │   ├── AgenticTaskManager.Application/  # Fixed Application layer  
 │   ├── AgenticTaskManager.Domain/       # Domain entities (minimal changes)
@@ -30,11 +30,11 @@ DeveloperSubmissions/
 
 ## 👥 Example Folder Names
 
-- `John_Doe_Backend_Developer`
-- `Jane_Smith_Security_Specialist`
-- `Alex_Chen_Performance_Engineer`
-- `Sarah_Wilson_QA_Tester`
-- `Mike_Brown_Full_Stack_Developer`
+- `John_Doe`
+- `Jane_Smith`
+- `Alex_Chen`
+- `Sarah_Wilson`
+- `Mike_Brown`
 
 ## 📝 Required Deliverables
 
