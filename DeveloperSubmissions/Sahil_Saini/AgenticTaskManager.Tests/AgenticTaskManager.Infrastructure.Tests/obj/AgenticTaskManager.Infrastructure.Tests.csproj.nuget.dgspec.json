@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Tests\\AgenticTaskManager.Infrastructure.Tests\\AgenticTaskManager.Infrastructure.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Application\\AgenticTaskManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Application\\AgenticTaskManager.Application.csproj",
+        "projectName": "AgenticTaskManager.Application",
+        "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Application\\AgenticTaskManager.Application.csproj",
+        "packagesPath": "C:\\Users\\sahil.saini\\.nuget\\packages\\",
+        "outputPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sahil.saini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://inuget.onebcg.com:14443/nuget/ONEBCG/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj": {
+                "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj",
+        "projectName": "AgenticTaskManager.Domain",
+        "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\sahil.saini\\.nuget\\packages\\",
+        "outputPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sahil.saini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://inuget.onebcg.com:14443/nuget/ONEBCG/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Infrastructure\\AgenticTaskManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Infrastructure\\AgenticTaskManager.Infrastructure.csproj",
+        "projectName": "AgenticTaskManager.Infrastructure",
+        "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Infrastructure\\AgenticTaskManager.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sahil.saini\\.nuget\\packages\\",
+        "outputPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sahil.saini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://inuget.onebcg.com:14443/nuget/ONEBCG/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Application\\AgenticTaskManager.Application.csproj": {
+                "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Application\\AgenticTaskManager.Application.csproj"
+              },
+              "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj": {
+                "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Tests\\AgenticTaskManager.Infrastructure.Tests\\AgenticTaskManager.Infrastructure.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Tests\\AgenticTaskManager.Infrastructure.Tests\\AgenticTaskManager.Infrastructure.Tests.csproj",
+        "projectName": "AgenticTaskManager.Infrastructure.Tests",
+        "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Tests\\AgenticTaskManager.Infrastructure.Tests\\AgenticTaskManager.Infrastructure.Tests.csproj",
+        "packagesPath": "C:\\Users\\sahil.saini\\.nuget\\packages\\",
+        "outputPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Tests\\AgenticTaskManager.Infrastructure.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sahil.saini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://inuget.onebcg.com:14443/nuget/ONEBCG/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Application\\AgenticTaskManager.Application.csproj": {
+                "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Application\\AgenticTaskManager.Application.csproj"
+              },
+              "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj": {
+                "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Domain\\AgenticTaskManager.Domain.csproj"
+              },
+              "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Infrastructure\\AgenticTaskManager.Infrastructure.csproj": {
+                "projectPath": "D:\\Github_Copilot\\OBCIAgentTaskSampleRepo\\DeveloperSubmissions\\Sahil_Saini\\AgenticTaskManager.Infrastructure\\AgenticTaskManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

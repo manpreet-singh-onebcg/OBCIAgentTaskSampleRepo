@@ -1,0 +1,8 @@
+D:\Copilot\AgenticTaskManager.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Copilot\AgenticTaskManager.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Copilot\AgenticTaskManager.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Copilot\AgenticTaskManager.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Copilot\AgenticTaskManager.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Copilot\AgenticTaskManager.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Copilot\AgenticTaskManager.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Github_Copilot\OBCIAgentTaskSampleRepo\DeveloperSubmissions\Sahil_Saini\AgenticTaskManager.API\obj\Debug\net8.0\staticwebassets.build.json
