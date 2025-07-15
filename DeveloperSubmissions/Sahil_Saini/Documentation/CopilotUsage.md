@@ -28,6 +28,30 @@ This solution follows Clean Architecture principles with the following projects:
 | `AgenticTaskManager.Infrastructure.Tests` | Unit tests for utilities and infrastructure services | Unit, Infrastructure |
 | `AgenticTaskManager.API.Tests` | Unit tests for controllers and API endpoints | Unit, API |
 | `AgenticTaskManager.IntegrationTests` | End-to-end integration tests | Integration, EndToEnd |
+## Copilot Prompt Extensions
+
+### 1. Analyse the whole code and identify following:
+- Security vulnerabilities
+- Any kind of performance issues
+- Code quality problems
+
+### 2. Provide the best recommendation to resolve Hardcoded Credentials & Secrets issues
+
+### 3. Help us to Find performance issues
+
+### 4. Implement detailed and well-structured unit test cases with NUnit to ensure code reliability
+
+## Challenges Faced While Using GitHub Copilot
+
+### 1. Incomplete Code Modifications
+Copilot often does not perform all necessary updates in a single attempt. For instance, even when prompted to scan and fix all security vulnerabilities (such as hardcoded credentials), it may only apply partial fixes, leaving some issues unaddressed.
+
+### 2. Inconsistent Interface Updates
+In several cases, Copilot applies changes to method implementations within service classes but fails to update the associated method signatures in the corresponding interfaces. This leads to build errors, which are only resolved in subsequent prompts after explicitly highlighting the issue.
+
+### 3. Prompt Lag and Result Mismatch
+After several iterations, Copilot may start producing results that correspond to a previous prompt rather than the most recent one. For example, on prompt `n`, the response might reflect the intent of prompt `n-1`, causing confusion and inefficiency.
+
 
 ## Major Issues Resolved with GitHub Copilot
 
