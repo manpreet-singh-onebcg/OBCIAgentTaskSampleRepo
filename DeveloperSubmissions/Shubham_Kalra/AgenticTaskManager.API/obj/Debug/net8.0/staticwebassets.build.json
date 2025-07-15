@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KyRT3+GwtMp5+CfRGa2KXL52kh88kvrMgGuX9ujJgjM=",
+  "Source": "AgenticTaskManager.API",
+  "BasePath": "_content/AgenticTaskManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
