@@ -1,0 +1,39 @@
+# Ignore build results
+bin/
+obj/
+out/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore VS Code and other IDE folders
+.vscode/
+.idea/
+
+# Ignore packages (optional if you're using package restore)
+*.nupkg
+packages/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.old
+*.swp
+~$*
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
